@@ -6,3 +6,6 @@ GuiAppの変数にofAppからアクセスすることはできますが、逆は
 <br>
 詳しくは、以下のforumを参考にしました。<br>
 https://forum.openframeworks.cc/t/shared-objects-between-windows/31874<br>
+
+結果動画
+https://youtu.be/BgKRdR64ZSk
